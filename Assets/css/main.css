@@ -47,12 +47,13 @@ body{
 }
 .Details>h1{
     font-size: 4rem;
-    
+    font-family: 'Roboto Mono', monospace;
 }
 .Details>h5{
     font-size: 1.2rem;
     margin-left: 0.4rem;
     margin-bottom: 1rem;;
+    font-family: 'Roboto Mono', monospace;
 }
 .Details >ul{
     display: flex;
