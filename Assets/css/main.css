@@ -28,7 +28,7 @@ body{
     
     width: 41rem;
     height: 7rem;
-    
+    margin-top:3rem;
     transform: translate(18rem, 14rem);
     opacity: 1;
 }
