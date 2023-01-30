@@ -2,7 +2,6 @@ window.addEventListener("DOMContentLoaded",function(){
     const words =["Software Engineer..." ,"Sketch Artish...","Photographer...","Pianist...","Little Stupid..."];
     const Imges_url = [
         "url('Assets/img/3unsplash.jpg')",
-        "url('Assets/img/4unsplash.jpg')", 
     ]
     const img_val = document.getElementById("profileBackground");
     const details = document.getElementById("Mydetails");
